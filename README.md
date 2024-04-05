@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weikang-zeng
-- 👀 I’m interested in robotic
-- 🌱 I'm currently looking for work in the robotics field
+- 👀 I’m interested in robotic and AI
+- 🌱 I'm currently PHhd student in the robotics and AIagent field
 - 📫 How to reach me : email: mr.gangge@hotmail.com
 
 ![img](https://github.com/weikang-zeng/weikang-zeng/blob/main/0.gif)
